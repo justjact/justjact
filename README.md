@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Coding
 - 🌱 I’m currently learning ... All I Can
 - 💞️ I’m looking to collaborate on ... What I can help with
-- 📫 How to reach me ... Ask
+- 📫 How to reach me ... Coming soon
 
 <!---
 justjact/justjact is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
