@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @justjact
 - 👀 I’m interested in ... Coding
 - 🌱 I’m currently learning ... All I Can
-- 💞️ I’m looking to collaborate on ... What I can heal with
+- 💞️ I’m looking to collaborate on ... What I can help with
 - 📫 How to reach me ... Ask
 
 <!---
