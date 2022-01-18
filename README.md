@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @justjact
 - 👀 I’m interested in ... Coding
-- 🌱 I’m currently learning ... All
+- 🌱 I’m currently learning ... All I can ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... Ask
 
 <!---
 justjact/justjact is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
